@@ -1,0 +1,501 @@
+.wrap{
+	min-width: 1000px;
+	margin: 0px auto;
+}
+.head{
+	border-bottom: 4px solid #176fbb;
+}
+.h_con{
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.h_con .logo{
+	float: left;
+	margin-top: 14px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+}
+.h_right{
+	width: 860px;
+	float: left;
+	overflow: hidden;
+}
+.h_right_top{
+	margin-top: 20px;
+	margin-right: 20px;
+	overflow: hidden;
+	float: right;
+}
+.h_right_top .cel{
+	background: url(../img/daren_20141128_099.png) 0 0 no-repeat;
+	font-size: 18px;
+	color: #ffa000;
+	height: 20px;
+	line-height: 20px;
+	padding: 0px 25px;
+	font-weight: bold;
+	float: left;
+	font-weight: bold;
+	border-right: 1px solid #000;
+}
+.h_right_top .xlx{
+	background: url(../img/daren_20141128_6_06.png) 0 0 no-repeat;
+	font-size: 16px;
+	color: #000;
+	height: 26px;
+	line-height: 20px;
+	padding: 0px 27px;
+	font-weight: bold;
+	float: left;
+	margin-left: 7px;
+	border: none;
+}
+.h_right_top a{
+	font-size: 14px;
+	color: #000;
+	height: 20px;
+	line-height: 20px;
+	padding: 0px 25px;
+	float: left;
+	border-right: 1px solid #000;	
+}
+.h_right_top input{
+	width: 154px;
+	height: 28px;
+	float: left;
+}
+.h_right_top img{
+	width: 28px;
+	height: 32px;
+	float: left;
+}
+.h_right_bottom{
+	margin-top: 33px;
+	margin-bottom: 7px;
+	float: left;
+	overflow: hidden;
+}
+.h_right_bottom img{
+	padding-left: 57px;
+	padding-right: 20px;
+	float: left;
+}
+.h_right_bottom a{
+	padding: 0px 20px;
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	color: #000;
+}
+.middle{
+	width: 1000px;
+	margin: 0px auto;
+	position: relative;
+}
+.tutu{
+	position: absolute;
+	top: 235px;
+	left: -10px;
+	overflow: hidden;
+	z-index: 150;
+}
+.m1{
+	float: left;
+	width: 10px;
+	height: 34px;
+	background: url(../img/youji13_03.png) 0 0 no-repeat;
+}
+.m2{
+	float: left;
+	background: url(../img/youji11_03.png) 0 0 repeat-x;
+	width: 39px;
+	height: 24px;
+	font-weight: bold;
+	color: #fff;
+	font-size: 16px;
+	line-height: 24px;
+	padding-left: 16px;
+}
+.m3{
+	float: left;
+	background: url(../img/youji3_03.png) 0 0 no-repeat;
+	height: 24px;
+	width: 12px;
+}
+.m_tit{
+	height: 54px;
+}
+.m_tit a{
+	color: #000;
+	font-size: 14px;
+	text-decoration: none;
+	line-height: 54px;
+	display: inline-block;
+}
+.m_top_div{
+	width: 1000px;
+	margin: 0px auto;
+	height: 150px;
+}
+.m_top{
+	width: 1000px;
+	margin: 0px auto;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	background: url(../img/daren11_03.jpg) 0 0 no-repeat;
+	height: 112px;
+}
+.m_top .wenzi{
+	position: absolute;
+	top: 67px;
+	left: 151px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+}
+.m_top img{
+	position: absolute;
+	top: 42px;
+	left: 23px;
+}
+.weiz{
+	color: #000;
+	font-weight: bold;
+	font-size: 18px;
+	position: absolute;
+	top: 134px;
+	left: 148px;
+}
+.m_middle{
+	margin: 20px auto;
+	margin-bottom: 0px;
+	width: 1032px;
+	overflow: hidden;
+}
+.p1{
+	position: relative;
+	width: 322px;
+	height: 230px;
+	margin-bottom: 20px;
+	margin-right: 22px;
+	float: left;
+}
+.dibeijing{
+	width: 313px;
+	height: 220px;
+	position: absolute;
+	top: 10px;
+	left: 9px;
+	background: #bfbfbf;
+}
+.zhogbeijing{
+	width: 313px;
+	height: 220px;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	background: #dcdcdc;
+}
+.shangbeijing{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji1_03.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing2{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji2_05.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing3{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji3_07.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing4{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji4_12.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing5{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji5_13.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing6{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji6_14.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing7{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji7_03.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing8{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/yoiji8_05.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing9{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji10_12.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing9{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji9_07.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing10{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji10_12.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing11{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji11_13.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing12{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji12_14.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing13{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji13_18.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing14{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji14_19.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.shangbeijing15{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background: url(../img/youji15_20.png) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+	cursor: pointer;
+}
+.beijing{
+	width: 313px;
+	height: 47px;
+	background: #000;
+	position: absolute;
+	top: 173px;
+	left: 0px;
+	opacity: 0.5;
+}
+.zuoze{
+	position: absolute;
+	left: 10px;
+	top: 197px;
+	font: normal bold 12px "微软雅黑";
+	color: #fff;
+}
+.jiaqi{
+	position: absolute;
+	left: 178px;
+	top: 179px;
+	font: normal bold 12px "微软雅黑";
+	color: #fff;
+}
+.aixin{
+	background: url(../img/youji19_03.png) 0px center no-repeat;
+	padding-left: 25px;
+	position: absolute;
+	left: 178px;
+	top: 200px;
+	color: #fff;
+}
+.xiaoxi{
+	background: url(../img/youji19_05.png) 0px center no-repeat;
+	padding-left: 25px;
+	position: absolute;
+	left: 251px;
+	top: 200px;
+	color: #fff;
+}
+.touxiang{
+	background: url(../img/youji16_10.png) 0px 0px no-repeat;
+	position: absolute;
+	top: 149px;
+	left: 18px;
+	width: 41px;
+	height: 41px;
+}
+.shangbeijing:hover .biankuan{
+	display: block;
+}
+.shangbeijing2:hover .biankuan{
+	display: block;
+}
+.shangbeijing3:hover .biankuan{
+	display: block;
+}
+.shangbeijing4:hover .biankuan{
+	display: block;
+}
+.shangbeijing5:hover .biankuan{
+	display: block;
+}
+.shangbeijing6:hover .biankuan{
+	display: block;
+}
+.shangbeijing7:hover .biankuan{
+	display: block;
+}
+.shangbeijing8:hover .biankuan{
+	display: block;
+}
+.shangbeijing9:hover .biankuan{
+	display: block;
+}
+.shangbeijing10:hover .biankuan{
+	display: block;
+}
+.shangbeijing11:hover .biankuan{
+	display: block;
+}
+.shangbeijing12:hover .biankuan{
+	display: block;
+}
+.shangbeijing13:hover .biankuan{
+	display: block;
+}
+.shangbeijing14:hover .biankuan{
+	display: block;
+}
+.shangbeijing15:hover .biankuan{
+	display: block;
+}
+.biankuan{
+	border: 3px solid #8bb58b;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 310px;
+	height: 217px;
+	display: none;
+}
+.huace{
+	border: 2px solid #51b23e;
+	height: 34px;
+	width: 256px;
+	font: normal bold 28px "微软雅黑";
+	color: #3c3c3c;
+	line-height: 34px;
+	text-align: center;
+	float: left;
+	margin-right:  750px;
+	margin-bottom: 21px;
+}
+.footer{
+	background: #023c4d;
+}
+.f_top{
+	height: 179px;
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.f_top_li{
+	margin-left: 102px;
+	margin-top: 22px;
+	vertical-align: middle;
+	float: left;
+	color: #fff;
+}
+.f_top_li li{
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 14px;
+}
+.f_top_li .a{
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 18px;
+}
+.f_top_li li input{
+	min-width: 130px;
+	height: 25px;
+	color: #567d88;
+	background: #fff;
+	border-radius: 50px;
+}
+.f_bottom{
+	border-top: 1px solid #fff;
+	height: 57px;
+	text-align: center;
+	line-height: 57px;
+	color: #fff;
+}
+.f_bottom a{
+	text-decoration: none;
+	color: #fff;
+}	

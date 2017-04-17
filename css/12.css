@@ -1,0 +1,614 @@
+.wrap{
+	min-width: 1000px;
+	margin: 0px auto;
+}
+.head{
+	border-bottom: 4px solid #176fbb;
+}
+.h_con{
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.h_con .logo{
+	float: left;
+	margin-top: 14px;
+	margin-left: 8px;
+	margin-bottom: 10px;
+}
+.h_right{
+	width: 860px;
+	float: left;
+	overflow: hidden;
+}
+.h_right_top{
+	margin-top: 20px;
+	margin-right: 20px;
+	overflow: hidden;
+	float: right;
+}
+.h_right_top .cel{
+	background: url(../img/daren_20141128_099.png) 0 0 no-repeat;
+	font-size: 18px;
+	color: #ffa000;
+	height: 20px;
+	line-height: 20px;
+	padding: 0px 25px;
+	font-weight: bold;
+	float: left;
+	font-weight: bold;
+	border-right: 1px solid #000;
+}
+.h_right_top .xlx{
+	background: url(../img/daren_20141128_6_06.png) 0 0 no-repeat;
+	font-size: 16px;
+	color: #000;
+	height: 26px;
+	line-height: 20px;
+	padding: 0px 27px;
+	font-weight: bold;
+	float: left;
+	margin-left: 7px;
+	border: none;
+}
+.h_right_top a{
+	font-size: 14px;
+	color: #000;
+	height: 20px;
+	line-height: 20px;
+	padding: 0px 25px;
+	float: left;
+	border-right: 1px solid #000;	
+}
+.h_right_top input{
+	width: 154px;
+	height: 28px;
+	float: left;
+}
+.h_right_top img{
+	width: 28px;
+	height: 32px;
+	float: left;
+}
+.h_right_bottom{
+	margin-top: 33px;
+	margin-bottom: 7px;
+	float: left;
+	overflow: hidden;
+}
+.h_right_bottom img{
+	padding-left: 57px;
+	padding-right: 20px;
+	float: left;
+}
+.h_right_bottom a{
+	padding: 0px 20px;
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	color: #000;
+}
+.head1{
+	overflow: hidden;
+	position: relative;
+	height: 32px;
+	margin-top: 20px;
+}
+.h1_left{
+	background: url(../img/hotel3_01.jpg) 0 0 repeat-x;
+	position: absolute;
+	left: -500px;
+	width: 50%;
+	height: 32px;
+}
+.h1_center{
+	margin: 0px auto;
+	height: 32px;
+	width: 1000px;
+	overflow: hidden;
+}
+.h1_center1{
+	overflow: hidden;
+	float: left;
+}
+.h1_center1_left{
+	background: url(../img/hotel3_01.jpg) 0px 0px repeat-x;
+	width: 195px;
+	height: 32px;
+	float: left;
+}
+.h1_center1_right{
+	background: url(../img/hotel3_02.jpg) 0px 0px no-repeat;
+	float: left;
+	width: 16px;
+	height: 32px;
+}
+.h1_center2{
+	overflow: hidden;
+	float: left;
+}
+.h1_center2_left{
+	background: url(../img/hotel3_07.jpg) 0px 0px no-repeat;
+	width: 13px;
+	height: 32px;
+	float: left;
+}
+.h1_center2_center{
+	float: left;
+	background: url(../img/hotel3_09.jpg) 0px 0px repeat-x;
+	width: 160px;
+	height: 32px;
+	position: relative;
+}
+.bg{
+	position: absolute;
+	top: 6px;
+	left: 35px;
+	background: #fff;
+	width: 21px;
+	height: 21px;
+	border-radius: 50px;
+}
+.shuzi{
+	position: absolute;
+	top: 6px;
+	left: 41px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #ffa000;
+}
+.queren{
+	position: absolute;
+	top: 5px;
+	left: 63px;
+	font: normal bold 16px "微软雅黑";
+	color: #fff;
+}
+.h1_center2_right{
+	float: left;
+	background: url(../img/hotel3_03.jpg) 0px 0px no-repeat;
+	height: 32px;
+	width: 16px;
+}
+.h1_center4{
+	float: left;
+	overflow: hidden;
+}
+.h1_center4_left{
+	background: url(../img/hotel3_05.jpg) 0px 0px no-repeat;
+	width: 13px;
+	height: 32px;
+	float: left;
+}
+.h1_center4_right{
+	background: url(../img/hotel3_01.jpg) 0px 0px repeat-x;
+	width: 209px;
+	height: 32px;
+	float: left;
+}
+.h1_right{
+	background: url(../img/hotel3_01.jpg) 0 0 repeat-x;
+	position: absolute;
+	right: -500px;
+	width: 50%;
+	height: 32px;
+	top: 0px;
+}
+.middle{
+	width: 1000px;
+	margin: 0px auto;
+}
+.m_title{
+	margin-bottom: 18px;
+	font: normal bold 16px "微软雅黑";
+}
+.m_con{
+	overflow: hidden;
+}
+.m_con_left{
+	float: left;
+	width: 562px;
+	height: 754px;
+	border: 1px solid #3c3c3c;
+	margin-bottom: 20px;
+}
+.m_con_right{
+	float: right;
+	width: 406px;
+	height: 440px;
+	border: 1px solid #3c3c3c;
+}
+.wenben{
+	margin-left: 20px;
+	margin-right: 19px;
+	height: 305px;
+	border-bottom: 1px solid #6e6e6e;
+}
+.yuding{
+	margin-top: 18px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #6e6e6e;
+	width: 445px;
+	font: normal bold 16px "微软雅黑";
+	color: #3c3c3c;
+}
+.wenben1{
+	height: 130px;
+	margin-left: 20px;
+	margin-right: 19px;
+	border-bottom: 1px solid #6e6e6e;
+}
+.ruzhu{
+	overflow: hidden;
+	margin-top: 19px;
+}
+.ruzhu1{
+	float: left;
+	font: normal bold 14px "微软雅黑";
+}
+.ruzhu2{
+	float: left;
+	margin-left: 21px;
+	height: 23px;
+	width: 137px;
+	border: 1px solid #3c3c3c;
+}
+.t1{
+	width: 32px;
+	height: 23px;
+	border-right: 1px solid #6e6e6e;
+	background: url(../img/hotel3_10.png) 8px 2px no-repeat;
+}
+.t2{
+	font: normal 400 14px "微软雅黑";
+	line-height: 23px;
+	color: #6e6e6e;
+	padding-left: 8px;
+}
+.likai{
+	margin-top: 19px;
+	overflow: hidden;
+}
+.fangshu{
+	margin-top: 19px;
+	overflow: hidden;
+}
+.fangshu1{
+	float: left;
+	font: normal bold 14px "微软雅黑";
+}
+.fangshu2{
+	width: 137px;
+	height: 23px;
+	float: left;
+	margin-left: 21px;
+	padding-left: 10px;
+	line-height: 23px;
+	border: 1px solid #3c3c3c;
+}
+.xingming{
+	margin-top: 19px;
+	position: relative;
+	height: 59px;
+}
+.xingming1{
+	font: normal bold 14px "微软雅黑";
+	margin-right: 19px;
+}
+.xingming input{
+	width: 127px;
+	height: 23px;
+	border: 1px solid #3c3c3c;
+	padding-left: 10px;
+	color: #6e6e6e;
+	margin-right: 4px;
+}
+.xm2{
+	position: absolute;
+	top: 45px;
+	left: 78px;
+	font: normal 400 12px "微软雅黑";
+	color: #9c9c9c;
+}
+.zuiwan{
+	margin-top: 19px;
+	overflow: hidden;
+	height: 24px;
+	margin-bottom: 19px;
+}
+.zuiwan1{
+	float: left;
+	font: normal bold 14px "微软雅黑";
+}
+.zuiwan2{
+	margin-left: 19px;
+	width: 127px;
+	height: 22px;
+}
+.w_tit{
+	margin-top: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #6f6f6f;
+}
+.w_tit1{
+	font: normal bold 14px "微软雅黑";
+	margin-right: 18px;
+	color: #3c3c3c;
+}
+.w_tit2{
+	font: normal 400 12px "微软雅黑";
+	color: #6e6e6e;
+}
+.shoujihaoma{
+	margin-top: 10px;
+}
+.shoujihaoma1{
+	font: normal bold 14px "微软雅黑";
+	margin-right: 18px;
+	color: #3c3c3c;
+	float: left;
+}
+.shoujihaoma2{
+	float: left;
+	width: 243px;
+	height: 23px;
+	border: 1px solid #3c3c3c;
+}
+.t3{
+	padding-left: 3px;
+	line-height: 23px;
+	font: normal 400 14px "微软雅黑";
+	color: #6e6e6e;
+	border-right: 1px solid #3c3c3c;
+}
+.t4{
+	padding-left: 3px;
+	line-height: 23px;
+	font: normal 400 14px "微软雅黑";
+	color: #6e6e6e;
+}
+.t5{
+	margin-left: 10px;
+	font: normal 400 14px "微软雅黑";
+	color: #6e6e6e; 
+	line-height: 23px;
+}
+.emall{
+	margin-top: 17px;
+}
+.emall1{
+	font: normal bold 14px "微软雅黑";
+	color: #3c3c3c;
+	float: left;
+}
+.emall2{
+	margin-left: 37px;
+	width: 200px;
+	height: 23px;
+	border: 1px solid #3c3c3c;
+}
+.wenben2{
+	margin-left: 20px;
+	margin-right: 11px;
+}
+.fapiao{
+	margin-top: 20px;
+	font: normal 400 12px "微软雅黑";
+}
+.fapiaoleixin{
+	margin-left: 18px;
+	margin-top: 20px;
+	height: 23px;
+	background: url(../img/hotel3_18.jpg) 496px 0px no-repeat;
+}
+.fapiaotaitou{
+	margin-left: 18px;
+	margin-top: 19px;
+	height: 23px;
+}
+.fapiaoleixin1{
+	font: normal 400 12px "微软雅黑";
+	line-height: 23px;
+	margin-right: 20px;
+}
+.fapiaoleixin3{
+	font: normal 400 12px "微软雅黑";
+	line-height: 23px;
+	margin-right: 20px;
+}
+.fapiaoleixin2{
+	width: 403px;
+	height: 23px;
+	border: 1px solid #3c3c3c;
+}
+.quxiao{
+	margin-top: 21px;
+	font: normal 400 12px "微软雅黑";
+	color: #929292;
+}
+.fangfei{
+	overflow: hidden;
+	margin-top: 22px;
+}
+.fangfei2{
+	float: right;
+	right: 26px;
+	font: normal bold 18px "微软雅黑";
+	color: #cc0000;
+}
+.fangfei1{
+	float: right;
+	margin-right: 10px;
+	font: normal bold 14px "微软雅黑";
+	color: #3c3c3c;
+}
+.tijiao{
+	margin-top: 20px;
+	overflow: hidden;
+}
+.tijiao1{
+	float: right;
+	margin-right: 8px;
+	background: #ffa000;
+	color: #fff;
+	width: 135px;
+	height: 31px;
+	border-radius: 5px;
+	line-height: 36px;
+	padding-top: 5px;
+	text-align: center;
+	font: normal 700 16px "微软雅黑";
+}
+.tijiao2{
+	padding-top: 10px;
+	font: normal 400 12px "微软雅黑";
+	float: right;
+	color: #ffa000;
+	margin-right: 46px;
+	text-decoration: underline;
+}
+.m_con_right_bg{
+	background: #d2d2d2;
+	width: 386px;
+	height: 37px;
+	font: normal bold 16px "微软雅黑";
+	color: #4b4b4b;
+	line-height: 37px;
+	padding-left: 20px;
+}
+.jiudiantu{
+	margin-left: 19px;
+	margin-top: 25px;
+	height: 108px;
+	overflow: hidden;
+}
+.jiudiantu1{
+	float: left;
+	background: url(../img/hotel3_d.jpg) 0px 0px no-repeat;
+	width: 154px;
+	height: 108px;
+}
+.jiudiantu1_1{
+	margin-left: 184px;
+	font: normal bold 14px "微软雅黑";
+	color: #3c3c3c;
+}
+.jiudiantu3{
+	padding-top: 16px;
+}
+.jiudiantu4{
+	padding-top: 33px;
+}
+.dachuang{
+	margin-top: 20px;
+	font: normal bold 14px "微软雅黑";
+	margin-left: 19px;
+}
+.ruzhushijian{
+	font: normal 400 14px "微软雅黑";
+	margin-top: 20px;
+	margin-left: 19px;
+}
+.fuwu{
+	margin-top: 20px;
+	overflow: hidden;
+	margin-left: 19px;
+	font: normal 400 12px "微软雅黑";
+	border-bottom: 1px dashed #6e6e6e;
+	padding-bottom: 19px;
+}
+.fuwu1{
+	font-weight: bold;
+	float: left;
+}
+.fuwu2{
+	background: url(../img/hotel1_10.png) 0 center no-repeat;
+	padding-left: 24px;
+	margin-left: 17px;
+	height: 21px;
+	float: left;
+}
+.fuwu3{
+	background: url(../img/hotel1_13.png) 0 center no-repeat;
+	padding-left: 24px;
+	margin-left: 27px;
+	height: 21px;
+	float: left;
+}
+.fuwu4{
+	background: url(../img/hotel1_15.png) 0 center no-repeat;
+	padding-left: 24px;
+	margin-left: 27px;
+	float: left;
+	height: 21px;
+}
+.ruzhu{
+	font: normal 400 14px "微软雅黑";
+}
+.kefang{
+	margin-left: 71px;
+}
+.yingfu{
+	margin-top: 22px;
+	font: normal 400 14px "微软雅黑";
+}
+.m_con_right_bottom{
+	margin-left: 19px;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.jine{
+	font: normal bold 18px "微软雅黑";
+	color: #cc0000;
+}
+.meiwan{
+	float: right;
+	font: normal 400 12px "微软雅黑";
+	color: #6e6e6e;
+	margin-right: 29px;
+}
+.footer{
+	width: 100%;
+	background: #023c4d;
+}
+.f_top{
+	height: 179px;
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.f_top_li{
+	margin-left: 102px;
+	margin-top: 22px;
+	vertical-align: middle;
+	float: left;
+	color: #fff;
+}
+.f_top_li li{
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 14px;
+}
+.f_top_li .a{
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 18px;
+}
+.f_top_li li input{
+	min-width: 130px;
+	height: 25px;
+	color: #567d88;
+	background: #fff;
+	border-radius: 50px;
+}
+.f_bottom{
+	border-top: 1px solid #fff;
+	height: 57px;
+	text-align: center;
+	line-height: 57px;
+	color: #fff;
+}
+.f_bottom a{
+	text-decoration: none;
+	color: #fff;
+}	

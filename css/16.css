@@ -1,0 +1,1371 @@
+.head{
+	height: 113px;
+	border-bottom: 4px solid #176fbb;
+}
+.head_con{
+	margin: 0px auto;
+	height: 113px;
+	width: 1000px;
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	margin-left: 8px;
+	margin-top: 14px;
+	background: url(../taibei_pic/01_03.png) 0px 0px no-repeat;
+	width: 132px;
+	height: 90px;
+}
+.h_right{
+	width: 860px;
+	float: left;
+	height: 113px;
+}
+.h_right_top{
+	float: right;
+	margin-right: 22px;
+	margin-top: 15px;
+	height: 28px;
+	overflow: hidden;
+}
+.h_right_top a{
+	padding: 0px 15px;
+	color: #3c3c3c;
+	font: normal 400 14px "微软雅黑";
+	text-decoration: none;
+	float: left;
+	height: 28px;
+	line-height: 28px;
+	cursor: pointer;
+}
+.h_right_top span{
+	float: left;
+	font-weight: bold;
+	height: 28px;
+	line-height: 28px;
+}
+.h_right_top .cel{
+	color: #ffa000;
+	font: normal bold 14px "微软雅黑";
+	text-decoration: none;
+	background: url(../taibei_pic/02_06.png) 0px center no-repeat;
+	padding:0px 25px;
+	float: left;
+	height: 28px;
+	line-height: 28px;
+}
+.h_right_top .xlx{
+	color: #3c3c3c;
+	font: normal 400 14px "微软雅黑";
+	text-decoration: none;
+	background: url(../taibei_pic/03_06.png) 0px center no-repeat;
+	padding-left: 32px;
+	padding-right: 16px;
+	float: left;
+	margin-left:15px;
+	height: 28px;
+	line-height: 28px;
+}
+.h_right_top input{
+	width: 152px;
+	height: 26px;
+	border: 1px solid #000;
+	float: left;
+}
+.h_right_top img{
+	width: 27px;
+	height: 28px;
+	margin-left: 0px;
+	cursor: pointer;
+}
+.h_right_bottom{
+	height: 70px;
+	margin-top: 40px;
+	margin-left: 56px;
+	float: left;
+}
+.h_right_bottom img{
+	width: 21px;
+	height: 21px;
+	margin-right: 19px;
+}
+.h_right_bottom a{
+	padding: 0px 19px;
+	font: normal bold 18px "微软雅黑";
+	text-decoration: none;
+	color: #3c3c3c;
+	cursor: pointer;
+}
+.middle{
+	width: 1002px;
+	margin: 0px auto;
+}
+.m_title{
+	height: 54px;
+	line-height: 54px;
+	overflow: hidden;
+}
+.m_title a{
+	text-decoration: none;
+	font: normal 400 14px "微软雅黑";
+	color: #3c3c3c;
+}
+.m_con{
+	width: 1002px;
+	height: 341px;
+	overflow: hidden;
+	margin-bottom: 26px;
+}
+.m_c_pic{
+	width: 485px;
+	height: 341px;
+	background: url(../taibei_pic/08_23.jpg) 0px 0px no-repeat;
+	float: left;
+}
+.m_c_right{
+	float: right;
+	width: 486px;
+	height: 339px;
+	border-top: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+}
+.m_c_right1{
+	width: 486px;
+	height: 31px;
+	margin-top: 12px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.m_c_right3{
+	background: url(../taibei_pic/33_06.png) 0px 0px no-repeat;
+	margin-left: 1px;
+	padding-left: 18px;
+	height: 19px;
+	line-height: 19px !important;
+	font: normal 700 18px "微软雅黑";
+}
+.m_c_right_tit{
+	background: url(../taibei_pic/33_06.png) 0px 0px no-repeat;
+	margin-left: 1px;
+	padding-left: 18px;
+	height: 19px;
+	line-height: 19px !important;
+	font: normal 700 18px "微软雅黑";
+	display: inline-block;
+}
+.m_c_right_tit1{
+	background: url(../taibei_pic/06_23.png) 0px center no-repeat;
+	padding-left: 24px;
+	margin-right: 23px;
+	height: 19px;
+	line-height: 19px;
+	float: right;
+}
+.m_c_right_tit2{
+	background: url(../taibei_pic/07_25.png) 0px center no-repeat;
+	padding-left: 24px;
+	margin-right: 20px;
+	height: 19px;
+	line-height: 19px;
+	float: right;
+}
+.m_c_right2{
+	font: normal 400 14px "微软雅黑";
+	color: #3c3c3c;
+	margin-bottom: 33px;
+}
+.m_c_right4{
+	width: 486px;
+	height: 96px;
+	margin-bottom: 25px;
+}
+.m_c_right4_1{
+	float: left;
+	border: 1px solid #51b23e;
+	border-radius: 6px;
+	color: #51b23e;
+	text-align: center;
+	height: 23px;
+	line-height: 23px;
+	padding: 0px 10px;
+	margin-right: 10px;
+	cursor: pointer;
+	font: normal 400 14px "微软雅黑";
+}
+.m_c_right4_part1{
+	width: 370px;
+	overflow: hidden;
+	margin-top: 20px;
+}
+.m_c_right4_part2{
+	width: 420px;
+	overflow: hidden;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+.m_c_right4_part3{
+	width: 374px;
+	overflow: hidden;
+}
+.m_c_right4_1:hover{
+	background: #51b23e;
+	color: #fff;
+}
+.m_c_right5{
+	overflow: hidden;
+}
+.m_c_right5_part1{
+	background: url(../taibei_pic/09_33.png) 12px center no-repeat;
+	font: normal 400 12px "微软雅黑";
+	float: right;
+	border:1px solid #6e6e6e;
+	height: 23px;
+	line-height: 23px;
+	padding-left: 23px;
+	text-align: center;
+	color: #6e6e6e;
+	margin-right: 5px;
+	border-radius: 6px;
+	width: 45px;
+}
+.m_c_right5_part2{
+	background: url(../taibei_pic/08_32.png) 12px center no-repeat;
+	font: normal 400 12px "微软雅黑";
+	float: right;
+	border:1px solid #6e6e6e;
+	height: 23px;
+	line-height: 23px;
+	padding-left: 23px;
+	text-align: center;
+	color: #6e6e6e;
+	margin-right: 14px;
+	border-radius: 6px;
+	width: 45px;
+}
+.middle1{
+	width: 1050px;
+	height: 724px;
+	margin: 0px auto;
+}
+.m1_tit{
+	background: url(../taibei_pic/11_39.png) 0px 20px no-repeat;
+	font: normal bold 22px "微软雅黑";
+	height: 31px;
+	line-height: 31px;
+	padding-top: 22px;
+	margin-bottom: 22px;
+	padding-left: 43px;
+}
+.m1_part{
+	overflow: hidden;
+}
+.m1_part1{
+	float: left;
+	height: 581px;
+}
+.m1_part1_1{
+	position: relative;
+	width: 314px;
+	height: 220px;
+	margin-left: 10px;
+}
+.m1_part1_1 img{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 314px;
+	height: 220px;
+	cursor: pointer;
+}
+.m1_part1_1_1{
+	overflow: hidden;
+	position: absolute;
+	left: -10px;
+	top: 175px;
+}
+.m1_part1_1_1_1{
+	float: left;
+	width: 10px;
+	height: 34px;
+	background: url(../taibei_pic/youji13_03.png) 0px 0px no-repeat;
+}
+.m1_part1_1_1_2{
+	float: left;
+	background: url(../taibei_pic/youji11_03.png) 0px 0px repeat-x;
+	width: 128px;
+	height: 24px;
+	text-align: center;
+	line-height: 24px;
+	color: #fff;
+}
+.m1_part1_1_1_3{
+	float: left;
+	width: 12px;
+	height: 24px;
+	background: url(../taibei_pic/youji3_03.png) 0px 0px no-repeat;
+}
+.m1_part1_1_border{
+	border: 2px solid #51b23e;
+	width: 312px;
+	height: 218px;
+	display: none;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.m1_part1_1:hover .m1_part1_1_border{
+	display: block;
+}
+.m1_part1_2{
+	width: 314px;
+	height: 50px;
+	font: normal 400 14px "微软雅黑";
+	color: #868686;
+	margin: 15px 18px;
+}
+.m1_part1_3{
+	font: normal 400 14px "微软雅黑";
+	margin-left: 18px;
+	margin-bottom:10px;
+}
+.m1_part1_3 h4{
+	display: inline-block;
+}
+.mifentiao{
+	height: 13px;
+	margin-bottom: 11px;
+	overflow: hidden;
+	width: 332px;
+}
+.mifentiao_1{
+	font-weight: bold;
+	color: #f4f4f4;
+	height: 13px;
+	line-height: 13px;
+	float: left;
+}
+.mifentiao_2{
+	float: left;
+	width: 13px;
+	height: 13px;
+	border-radius: 50%;
+	background: #f4f4f4;
+}
+.m1_part1_4{
+	margin-left: 18px;
+	border-bottom: 1px solid #a8d89e;
+	padding-bottom: 5px;
+	font: normal bold 16px "微软雅黑";
+	color: #62b852;
+	width: 296px;
+}
+.m1_part1_5{
+	width: 314px;
+	height: 182px;
+	margin-left: 18px;
+	margin-right: 18px;
+}
+.m1_part1_5_1{
+	padding-top: 10px;
+	cursor: pointer;
+	padding-bottom: 10px;
+	font: normal 400 14px "微软雅黑";
+	border-bottom: 1px solid #f2f2f2;
+}
+.m1_part1_5_1_top{
+	overflow: hidden;
+}
+
+.m1_part1_5_1_top1{
+	float: left;
+}
+.m1_part1_5_1_top2{
+	float: right;
+}
+.m1_part1_5_1_top2_1{
+	font: normal bold 16px "微软雅黑";
+	color: #cd1111;
+}
+.m1_part1_5_1:hover{
+	width: 314px;
+	height: 40px;
+	background: #e6e6e6;
+}
+.m1_part1,.m1_part2,.m1_part3{
+	float: left;
+}
+.m1_part{
+	overflow: hidden;
+}
+.m2_tit{
+	background: url(../taibei_pic/13_46.png) 0px 20px no-repeat;
+	font: normal bold 22px "微软雅黑";
+	height: 31px;
+	line-height: 31px;
+	padding-top: 22px;
+	margin-bottom: 22px;
+	padding-left: 43px;
+}
+.middle2{
+	width: 1002px;
+	height: 458px;
+	margin: 0px auto;
+	border-bottom: 1px solid #e6e6e6;
+}
+.m2_con{
+	overflow: hidden;
+	height: 310px;
+	width: 1025px; 
+}
+.m2_con_part1{
+	width: 318px;
+	height: 310px;
+	position: relative;
+	float: left;
+	margin-right: 23px;
+}
+#m2_con_part1_pic{
+	background: url(../taibei_pic/14_49.jpg) 0px 0px no-repeat;
+	width: 313px;
+	position: relative;
+	height: 220px;
+	cursor: pointer;
+	overflow: hidden;
+}
+#m2_con_part1_opc{
+	background: #000;
+	width: 313px;
+	opacity: 0.5;
+	height: 220px;
+	position: absolute;
+	top:-220px;
+	left: 0px; 
+}
+#m2_con_part1_weizi{
+	position: absolute;
+	left: 0px;
+	top: -220px;
+	height: 220px;
+	width: 313px;
+	color: #fff;
+}
+#m2_con_part1_pic1{
+	background: url(../taibei_pic/15_51.jpg) 0px 0px no-repeat;
+	width: 313px;
+	position: relative;
+	height: 220px;
+	cursor: pointer;
+	overflow: hidden;
+}
+#m2_con_part1_opc1{
+	background: #000;
+	width: 313px;
+	opacity: 0.5;
+	height: 220px;
+	position: absolute;
+	top:-220px;
+	left: 0px; 
+}
+
+#m2_con_part1_weizi1{
+	position: absolute;
+	left: 0px;
+	top: -220px;
+	height: 220px;
+	width: 313px;
+	color: #fff;
+}
+#m2_con_part1_pic2{
+	background: url(../taibei_pic/15_53.jpg) 0px 0px no-repeat;
+	width: 313px;
+	position: relative;
+	height: 220px;
+	cursor: pointer;
+	overflow: hidden;
+}
+#m2_con_part1_opc2{
+	background: #000;
+	width: 313px;
+	opacity: 0.5;
+	height: 220px;
+	position: absolute;
+	top:-220px;
+	left: 0px; 
+}
+#m2_con_part1_weizi2{
+	position: absolute;
+	left: 0px;
+	top: -220px;
+	height: 220px;
+	width: 313px;
+	color: #fff;
+}
+.m2_con_part1_wenzi_tit{
+	background: url(../taibei_pic/33_06.png) 0px 0px no-repeat;
+	font:normal 400 16px "微软雅黑";
+	padding-left: 27px;
+	margin-left: 27px;
+	margin-top: 20px;
+}
+.m2_con_part1_wenzi_xinxin{
+	margin-left: 51px;
+	margin-top: 16px;
+}
+.m2_con_part1_wenzi_xinxin img{
+	padding-right: 6px;
+}
+.m2_con_part1_wenzi_fuwu{
+	margin-left: 29px;
+	margin-top: 22px;
+	width: 258px;
+	overflow: hidden;
+	font: normal 400 16px "微软雅黑";
+}
+.m2_con_part1_wenzi_fuwu1{
+	float: left;
+}
+.m2_con_part1_wenzi_fuwu2{
+	float: right;
+}
+.m2_con_part1_wenzi_fuwu1_1{
+	background: url(../taibei_pic/33_22.png) 0px 0px no-repeat;
+	padding-left: 29px;
+	margin-bottom: 14px;
+	height: 19px;
+	line-height: 19px;
+}
+.m2_con_part1_wenzi_fuwu1_2{
+	background: url(../taibei_pic/33_25.png) 0px 0px no-repeat;
+	padding-left: 29px;
+	margin-bottom: 14px;
+	height: 19px;
+	line-height: 19px;
+}
+.m2_con_part1_wenzi_fuwu1_3{
+	background: url(../taibei_pic/33_28.png) 0px 0px no-repeat;
+	padding-left: 29px;
+	margin-bottom: 14px;
+	height: 19px;
+	line-height: 19px;
+}
+.m2_con_part1_bottom{
+	width: 313px;
+	height: 83px;
+	background: #f5f5f5;
+}
+.m2_con_part1_bottom1{
+	width: 261px;
+	height: 45px;
+	line-height: 45px !important;
+	padding-left: 17px;
+	font: normal 400 16px "微软雅黑";
+	color:#3c3c3c;
+}
+.m2_con_part1_bottom2{
+	overflow: hidden;
+	height: 37px;
+	width: 278px;
+	margin-left: 17px;
+	border-top: 1px solid #e6e6e6;
+}
+.m2_con_part1_bottom2_1{
+	background: url(../taibei_pic/16_59.png) 35px center no-repeat;
+	float: left;
+	text-align: center;
+	line-height: 37px !important;
+	height: 37px;
+	width: 139px;
+	border-right: 1px solid #e6e6e6;
+	font: normal 400 12px "微软雅黑";
+}
+.m2_con_part1_bottom2_2{
+	background: url(../taibei_pic/17_61.jpg) 35px center no-repeat;
+	float: left;
+	text-align: center;
+	line-height: 37px;
+	height: 37px;
+	width: 138px;
+}
+.m2_con_part1_bottom_1{
+	position: absolute;
+	top: 260px;
+	left: 5px;
+	height: 49px;
+	width: 313px;
+	background: #e6e6e6;
+	z-index: -1;
+}
+.m2_con_part1:hover .m2_con_part1_bottom_1{
+	background: #2eb9d2;
+}
+.m2_bot{
+	overflow: hidden;
+	line-height: 64px;
+	height: 64px;
+}
+.m2_bot1{
+	float: right;
+	width: 89px;
+	height: 21px;
+	line-height: 18px !important;
+	border: 2px solid #2eb9d2;
+	border-radius: 8px;
+	text-align: center;
+	font: normal bold 14px "微软雅黑";
+	color: #2eb9d2;
+	margin-top: 20px;
+	cursor: pointer;
+	background: #fff;
+}
+.middle3{
+	height: 471px;
+	width: 1002px;
+	margin: 0px auto;
+}
+.m3_tit{
+	overflow: hidden;
+	height: 73px;
+	line-height: 73px;
+}
+.m3_tit1{
+	background: url(../taibei_pic/18_66.jpg) 0px center no-repeat;
+	padding-left: 51px;
+	height: 73px;
+	line-height: 73px !important;
+	font: normal bold 22px "微软雅黑";
+	color: #3c3c3c;
+}
+.m3_tit3{
+	float: right;
+	height: 73px;
+	line-height: 73px !important;
+	font: normal 400 20px "微软雅黑";
+	cursor: pointer;
+	border-bottom: 2px solid #ffa000;
+}
+.m3_tit4{
+	float: right;
+	height: 73px;
+	line-height: 73px !important;
+	margin: 0px 20px;
+	font-weight: bold;
+}
+.m3_tit2{
+	height: 73px;
+	line-height: 73px !important;
+	float: right;
+	font: normal 400 20px "微软雅黑";
+	cursor: pointer;
+}
+.m3_tit3:hover {
+	text-decoration: underline;
+	color: #ffa000;
+}
+.m3_tit2:hover{
+	text-decoration: underline;
+	color: #ffa000;
+}
+.m3_con{
+	height: 373px;
+	overflow: hidden;
+}
+.m3_con_part1{
+	float: left;
+	margin-right: 29px;
+	background: #f5f5f5;
+	position: relative;
+}
+.m3_con_part3{
+	float: left;
+	background: #f5f5f5;
+	position: relative;
+}
+
+.m3_con_part1_pic{
+	background: url(../taibei_pic/19_69.jpg) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+}
+.m3_con_part1_pic1{
+	background: url(../taibei_pic/20_71.jpg) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+}
+.m3_con_part1_pic2{
+	background: url(../taibei_pic/21_72.jpg) 0px 0px no-repeat;
+	width: 313px;
+	height: 220px;
+}
+.m3_con_part1_tit{
+	background: url(../taibei_pic/34_49.jpg) 0px center no-repeat;
+	padding-left: 18px;
+	height: 47px;
+	line-height: 47px !important;
+	font: normal bold 16px "微软雅黑";
+	color: #3c3c3c;
+}
+.m3_con_part1_menu{
+	width: 280px;
+	height: 62px;
+	margin-left: 18px;
+	font: normal 400 12px "微软雅黑";
+	color: #979797;
+	border-bottom: 1px solid #979797;
+}
+.m3_con_part1_xihuan{
+	overflow: hidden;
+	height: 38px;
+	line-height: 38px;
+	width: 280px;
+	margin-left: 18px;
+}
+.m3_con_part1_bot1{
+	float: left;
+	background: url(../taibei_pic/16_59.png) 35px center no-repeat;
+	width: 136px;
+	text-align: center;
+}
+.m3_con_part1_bot2{
+	float: left;
+	color: #e6e6e6;
+}
+.m3_con_part1_bot3{
+	float: left;
+	background: url(../taibei_pic/17_61.jpg) 35px center no-repeat;
+	width: 136px;
+	text-align: center;
+}
+.m3_con_part1_bot{
+	position: absolute;
+	top: 330px;
+	left: 5px;
+	z-index: -1;
+	background: #d2d2d2;
+	width: 313px;
+	height: 43px;
+}
+.m3_con_part1:hover .m3_con_part1_bot{
+	background: #ffa000;
+}
+.m3_con_part3:hover .m3_con_part1_bot{
+	background: #ffa000;
+}
+.middle4{
+	width: 1000px;
+	height: 417px;
+	margin: 0px auto;
+	margin-bottom: 31px;
+}
+.m4_tit{
+	background: url(../taibei_pic/21_77.jpg) 0px center no-repeat;
+	padding-left: 50px;
+	height: 81px;
+	line-height: 81px !important;
+	font: normal bold 22px "微软雅黑";
+}
+.m4_con{
+	overflow: hidden;
+}
+.m4_con_left{
+	width: 48px;
+	height: 308px;
+	background: #eee;
+	float: left;
+	position: relative;
+}
+.m4_con_right{
+	width: 48px;
+	height: 308px;
+	background: #eee;
+	float: left;
+	position: relative;
+}
+#m4_con_left1{
+	background: url(../taibei_pic/39_26.png) 0px 0px no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -11px;
+	width: 22px;
+	height: 42px;
+	margin-top: -21px;
+	cursor: pointer;
+}
+
+#m4_con_left2{
+	background: url(../taibei_pic/40_26.png) 0px 0px no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -11px;
+	width: 22px;
+	height: 42px;
+	margin-top: -21px;
+	cursor: pointer;
+}
+.m4_con_middle{
+	width: 894px;
+	float: left;
+	height: 308px;
+	padding-left: 8px;
+	overflow: hidden;
+}
+.m4_con_middle1{
+	width: 313px;
+	height: 308px;
+	float: left;
+}
+#outer{
+	width: 313px;
+	height: 216px;
+	border: 2px solid #51b23e;
+	overflow: hidden;
+}
+#inner{
+	width: 5000px;
+	height: 216px;
+	overflow: hidden;
+}
+#inner img{
+	width: 313px;
+	height: 216px;
+	float: left;
+}
+#list{
+	margin-top: 15px;
+	width: 321px;
+	overflow: hidden;
+}
+#list li{
+	float: left;
+	height: 69px;
+	width: 96px;
+	float: left;
+	margin-right: 8px;
+	cursor: pointer;
+}
+#list li img{
+	width: 96px;
+	height: 69px;
+}
+.border{
+	border: 2px solid #51b23e;
+}
+.m4_con_left:hover {
+	background: #abdaa2;
+}
+.m4_con_right:hover{
+	background: #abdaa2;
+}
+.m4_con_middle2{
+	float: left;
+	margin-left: 20px;
+	width: 548px;
+	height: 308px; 
+}
+.m4_con_middle2_tit{
+	overflow: hidden;
+	height: 100px;
+	width: 548px;
+	margin-bottom: 24px;
+}
+.m4_con_middle_tit1{
+	background: url(../taibei_pic/23_84.png) 0px 0px no-repeat;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.m4_con_middle_tit2{
+	float: left;
+	width: 448px;
+	height: 100px;
+}
+.m4_con_middle_tit2_1{
+	margin-top: 46px;
+	font: normal 400 12px "微软雅黑";
+	color: #3c3c3c;
+	padding-left: 20px;
+}
+.m4_con_middle_tit2_2{
+	margin-top: 14px;
+	padding-left: 20px;
+	overflow: hidden;
+}
+.m4_con_middle_tit2_2_1{
+	overflow: hidden;
+	background: url(../taibei_pic/06_23.png) 0px center no-repeat;
+	padding-left: 24px;
+	font: normal 400 12px "微软雅黑";
+	color: #848484;
+	margin-right: 20px;
+}
+.m4_con_middle_tit2_2_2{
+	overflow: hidden;
+	background: url(../taibei_pic/07_25.png) 0px center no-repeat;
+	padding-left: 24px;
+	font: normal 400 12px "微软雅黑";
+	color: #848484;
+	margin-right: 20px;
+}
+.m4_con_middle_tit2_2_3{
+	overflow: hidden;
+	background: url(../taibei_pic/24_87.png) 0px center no-repeat;
+	padding-left: 24px;
+	font: normal 400 12px "微软雅黑";
+	color: #848484;
+	margin-right: 20px;
+}
+.m4_con_middle2_con_1{
+	height: 50px;
+	line-height: 50px;
+}
+.m4_con_middle2_con1{
+	font: normal 400 18px "微软雅黑";
+	color: #3c3c3c;
+}
+.m4_con_middle2_con2{
+	font: normal 400 14px "微软雅黑";
+	overflow: hidden;
+}
+.m4_con_middle2_con2_1{
+	color: #397cbc;
+	float: left;
+	margin-right: 34px;
+}
+.m4_con_middle2_con2_1 span{
+	color: #3c3c3c;
+	display: inline-block;
+	margin: 0px 5px;
+}
+.m4_con_middle2_con2_2{
+	color: #3c3c3c;
+	float: left;
+	margin-right: 34px;
+}
+.m4_con_middle2_con2_3{
+	color: #397cbc;
+	float: left;
+	margin-right: 34px;
+}
+.m4_con_middle2_con2_4{
+	color: #3c3c3c;
+	float: left;
+}
+.m4_con_middle2_con2_4 span{
+	color: #cc0000;
+}
+.m4_con_middle2_con3{
+	font: normal 400 14px "微软雅黑";
+	color: #6e6e6e;
+}
+.middle5{
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.m5_l{
+	float: left;
+	width: 702px;
+}
+.m5_l_tit{
+	width: 682px;
+	height: 38px;
+	line-height: 38px !important;
+	background: #51b23e;
+	color: #fff;
+	font: normal 700 18px "微软雅黑";
+	padding-left: 20px;
+}
+.m5_l1{
+	margin-top: 20px;
+	width: 702px;
+}
+#pic{
+	position: absolute;
+	display: block;
+	left: 213px;
+	top: -7px;
+}
+.m5_l1_top{
+	margin-left: 20px;
+	overflow: hidden;
+	height: 166px;
+	width: 682px;
+	position: relative;
+}
+.m5_l1_top_l{
+	width: 70px;
+	height: 103px;
+	display: inline-block;
+}
+.m5_l1_top_l1{
+	background: url(../taibei_pic/39_35.jpg) 0px 0px no-repeat;
+	width: 70px;
+	height: 70px;
+}
+.m5_l1_top_l2{
+	margin-top: 20px;
+	font: normal 700 14px "微软雅黑";
+	color: #3c3c3c;
+	text-align: center;
+}
+.m5_l1_top_r{
+	float: right;
+	overflow: hidden;
+}
+#txt1{
+	height: 100px;
+	width: 592px;
+}
+#m5_l1_top_r_weizi{
+	float: right;
+	margin-top: 10px;
+	margin-right: 3px;
+	font: normal 400 12px "微软雅黑";
+	color: #868686;
+}
+.m5_l1_top_r_btn{
+	position: absolute;
+	right: 0px;
+	top: 141px;
+	border: 1px solid #5ab4f5;
+	color: #fff;
+	width: 80px;
+	height: 25px;
+	border-radius: 8px;
+	background: #5ab4f5;
+	border: none;
+	text-align: center;
+	line-height: 25px !important;
+	cursor: pointer;
+	font: normal 700 14px "微软雅黑";
+}
+.m5_l1_bottom{
+	margin-top: 19px;
+	margin-left: 20px;
+	overflow: hidden;
+}
+.m5_l1_bottom_r{
+	float: right;
+	width: 592px;
+	position: relative;
+	height: 500px;
+}
+.m5_l1_bottom_r1{
+	width: 592px;
+	height: 78px;
+	font: normal 400 14px "微软雅黑";
+	color: #3c3c3c;
+	border-bottom: 1px dashed #c8c8c8;
+}
+.m5_l1_bottom_r2{
+	height: 25px;
+	width: 592px;
+	line-height: 25px !important;
+	font: normal 400 14px "微软雅黑";
+	color: #6e6e6e;
+	overflow: hidden;
+	border-bottom: 1px dashed #c8c8c8; 
+}
+.m5_l1_bottom_r2_1{
+	float: left;
+}
+.m5_l1_bottom_r2_4{
+	float: right;
+	color: #144b6e;
+	cursor: pointer;
+}
+.m5_l1_bottom_r2_3{
+	background: url(../taibei_pic/42_41.png) 0px center no-repeat;
+	padding-left: 24px;
+	margin-right: 33px;
+	float: right;
+}
+.m5_l1_bottom_r2_2{
+	background: url(../taibei_pic/07_25.png) 0px center no-repeat;
+	padding-left: 24px;
+	margin-right: 30px;
+	float: right;
+}
+.m5_l1_bottom_r3{
+	width: 592px;
+	margin-top: 20px;
+	height: 104px;
+}
+.m5_l1_bottom_r3_l{
+	width: 50px;
+	height: 76px;
+	display: inline-block;
+}
+.m5_l1_bottom_r3_l_t{
+	background: url(../taibei_pic/40_42.jpg) 0px 0px no-repeat;
+	width: 50px;
+	height: 50px;
+}
+.m5_l1_bottom_r3_l_t_1{
+	background: url(../taibei_pic/41_45.jpg) 0px 0px no-repeat;
+	width: 50px;
+	height: 50px;
+}
+.m5_l1_bottom_r3_l_b{
+	margin-top: 14px;
+	color: #3c3c3c;
+	text-align: center;
+	font: normal bold 12px "微软雅黑";
+}
+.m5_l1_bottom_r3_r{
+	float: right;
+	width: 521px;
+	height: 106px;
+	margin-left: 20px;
+}
+.m5_l1_bottom_r3_r1{
+	font: normal 700 14px "微软雅黑";
+	color: #3c3c3c;
+	margin-bottom: 18px;
+}
+.m5_l1_bottom_r3_r2{
+	font: normal 400 12px "微软雅黑";
+	color: #505050;
+	margin-bottom: 20px;
+}
+.m5_l1_bottom_r3_r3{
+	color: #6e6e6e;
+	position: relative;
+	font: normal 400 14px "微软雅黑";
+}
+.m5_l1_bottom_r3_r3_1{
+	color: #176fbb;
+	display: inline-block;
+	padding-left: 16px;
+}
+#m5_l1_bottom_r4{
+	margin-top: 13px;
+	width: 590px;
+	height: 58px;
+}
+.m5_l1_bottom_r5{
+	float: right;
+	margin-right: 3px;
+	margin-top: 21px;
+	font: normal 400 12px "微软雅黑";
+	color: #868686;
+}
+.pinglun{
+	position: absolute;
+	top: 472px;
+	left: 511px;
+	width: 80px;
+	height: 25px;
+	background: #5ab4f5;
+	color: #fff;
+	border: none;
+	border-radius: 9px;
+	cursor: pointer;
+	display: inline-block;
+	font: normal 700 14px "微软雅黑";
+}
+.m5_l2{
+	margin-top: 19px;
+	width: 702px;	
+}
+.m5_l2_top{
+	overflow: hidden;
+	height: 109px;
+	margin-left: 21px;
+}
+.m5_l2_top1{
+	overflow: hidden;
+	margin-top: 19px;
+	height: 109px;
+	margin-left: 21px;
+}
+.m5_l2_top_l{
+	width: 70px;
+	display: inline-block;
+	float: left;
+}
+.m5_l2_top_l1{
+	background: url(../taibei_pic/39_35.jpg) 0px 0px no-repeat;
+	width: 70px;
+	height: 70px;
+}
+.m5_l2_top_l2{
+	margin-top: 20px;
+	width: 70px;
+	text-align: center;
+	color: #3c3c3c;
+	font: normal 700 14px "微软雅黑";
+}
+.m5_l2_top_r{
+	float: right;
+	width: 591px;
+}
+.m5_l2_top_r1{
+	font: normal 400 14px "微软雅黑";
+	color: #3c3c3c;
+	padding-bottom: 38px;
+	border-bottom: 1px dashed #898989;
+}
+.m5_l2_top_r2{
+	overflow: hidden;
+	height: 25px;
+	line-height: 25px !important;
+	color: #3c3c3c;
+	border-bottom: 1px dashed #898989;
+	font: normal 400 14px "微软雅黑";
+}
+.m5_l2_top_r2_1{
+	float: left;
+}
+.m5_l2_top_r2_4{
+	float: right;
+	color: #176fbb;
+}
+.m5_l2_top_r2_3{
+	background: url(../taibei_pic/42_41.png) 0px center no-repeat;
+	padding-left: 24px;
+	margin-right: 32px;
+	float: right;
+}
+.m5_l2_top_r2_2{
+	background: url(../taibei_pic/07_25.png) 0px center no-repeat;
+	padding-left: 24px;
+	margin-right: 32px;
+	float: right;
+}
+.m5_r{
+	float: right;
+}
+.m5_r_1{
+	background: url(../taibei_pic/29_102.jpg) 0px 0px no-repeat;
+	width: 269px;
+	height: 336px;
+	position: relative;
+}
+.m5_r_2{
+	background: url(../taibei_pic/30_105.jpg) 0px 0px no-repeat;
+	width: 269px;
+	height: 336px;
+	position: relative;
+	margin-top: 21px;
+}
+.m5_r_1_1{
+	position: absolute;
+	top: 190px;
+	left: 39px;
+	background: #000;
+	opacity: 0.5;
+	width: 193px;
+	height: 37px;
+	filter:alpha(opacity=50);
+}
+.m5_r_1_2{
+	position: absolute;
+	top: 190px;
+	left: 39px;
+	width: 193px;
+	height: 37px;
+	line-height: 37px !important;
+	font: normal bold 18px "微软雅黑";
+	color: #fff;
+	text-align: center;
+}
+.m5_l3{
+	height: 70px;
+	width: 702px;
+	text-align: center;
+	overflow: hidden;
+	font: normal 400 12px "微软雅黑";
+	color: #3c3c3c;
+	position: relative;
+}
+.m5_l3_1{
+	overflow: hidden;
+	height: 15px;
+	width: 318px;
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -159px; 
+	
+}
+.m5_l3_l{
+	float: left;
+	display: inline-block;
+	padding-right: 28px;
+	cursor: pointer;
+}
+.m5_l3_a{
+	float: left;
+}
+.m5_l3_a a{
+	color: #3c3c3c;
+	padding: 6px;
+}
+.m5_l3_r{
+	float: left;
+	display: inline-block;
+	padding-left: 28px;
+	cursor: pointer;
+}
+.m5_l3_a a:hover{
+	background: #2eb9d2;
+	border: 1px solid #2eb9d2;
+	border: none;
+	border-radius: 9px;
+	width: 26px;
+	height: 20px;
+	color: #fff;
+}
+.foot{
+	height: 236px;
+	width: 100%;
+	background: #023c4d;
+}
+.f_t{
+	height: 178px;
+	width: 100%;
+	border-bottom: 1px solid #fff;
+}
+.f_t_con{
+	width: 1000px;
+	margin: 0px auto;
+	height: 178px;
+	overflow: hidden;
+}
+.f_t_con1{
+	margin-left: 103px;
+	margin-top: 22px;
+	float: left;
+}
+.f_t_con1 li{
+	font: normal bold 14px "微软雅黑";
+	color: #fff;
+	padding: 6px 0px;
+	cursor: pointer;
+}
+.f_t_con1 li:hover{
+	font: normal bold 16px "微软雅黑";
+	padding-top: 0px !important;
+}
+.f_t_con1_2{
+	width: 130px;
+	height: 25px;
+	font: normal 400 14px "微软雅黑";
+	color: #134959;
+	text-align: center;
+	line-height: 25px !important;
+	border-radius: 9px;
+	background: #fff;
+	border: none;
+	cursor: pointer;
+}
+.f_b{
+	width: 100%;
+	height: 57px;
+	text-align: center;
+	line-height: 57px !important;
+	color: #d0d0d0;
+	font: normal 400 14px "微软雅黑";
+}

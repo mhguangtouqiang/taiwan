@@ -1,0 +1,400 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.wrap{
+	margin: 0px auto;
+	width: 1024px;
+	background: url(../images/blog-恢复的_27.jpg) 0 0 repeat-y;
+}
+.content{
+	width: 948px;
+	margin: 0px auto;
+}
+.header{
+	height: 224px;
+	width: 948px;
+	margin-bottom: 10px;
+}
+.middle{
+	overflow: hidden;
+}
+.left{
+	float: left;
+	width: 227px;
+	margin-left: 7px;
+}
+.center{
+	float: left;
+	width: 454px;
+	margin-left: 7px;
+}
+.right{
+	float: left;
+	width: 227px;
+	margin-left: 7px;
+}
+.left1{
+	width: 227px;
+	margin-bottom: 15px;
+}
+.left1 .head11{
+	overflow: hidden;
+	height: 44px;
+}
+.head12{
+	float: left;
+	background: url(../images/images/images/blog11_03.jpg) 0 0 no-repeat;
+	width: 4px;
+	height: 44px;
+}
+.head13{
+	float: left;
+	background: url(../images/images/images/blog13_07.jpg) 0 0 no-repeat;
+	width: 4px;
+	height: 44px;
+}
+.head14{
+	float: left;
+	background: url(../images/images/images/blog12_05.jpg) 0 0 repeat-x;
+	height: 44px;
+	width: 219px;
+}
+.head14 h3{
+	background: url(../images/xiaotubiao_35.jpg) 0 0 no-repeat;
+	font-size: 16px;
+	font-weight: bold;
+	color: #b31e24;
+	margin-left: 10px;
+	margin-top: 10px;
+	height: 44px;
+	line-height: 23px;
+	float: left;
+	padding: 0px 30px;
+}
+.head14 a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #b31e24;
+	height: 44px;
+	line-height: 39px;
+	float: right;
+	margin-right: 14px;
+	text-decoration: none;
+}
+.head15{
+	float: left;
+	background: url(../images/images/images/blog12_05.jpg) 0 0 repeat-x;
+	width: 445px;
+	height: 44px;
+}
+.head15 h3{
+	background: url(../images/xiaotubiao_35.jpg) 0 0 no-repeat;
+	font-size: 16px;
+	font-weight: bold;
+	color: #b31e24;
+	margin-left: 10px;
+	margin-top: 10px;
+	height: 44px;
+	line-height: 23px;
+	float: left;
+	padding: 0px 30px;
+}
+.head15 a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #b31e24;
+	height: 44px;
+	line-height: 39px;
+	float: right;
+	margin-right: 14px;
+	text-decoration: none;
+}
+.l_center{
+	background: #ffd3a6;
+	width: 227px;
+	overflow: hidden;
+}
+.l_bottom{
+	overflow: hidden;
+}
+.l_bottom1,.l_bottom2,.l_bottom3{
+	float: left;
+}
+.l_center .img1 img{
+	border-top: 6px solid #fff;
+	border-bottom: 6px solid #fff;
+	border-left: 21px solid #fff;
+	border-right: 21px solid #fff;
+	margin-top: 9px;
+	margin-left: 14px;
+	margin-bottom: 8px;
+}
+.l_center .ipt{
+	overflow: hidden;
+	height: 64px;
+	margin-left: 10px;
+}
+.l_center .ipt .ipt1{
+	overflow: hidden;
+	margin-right: 5px;
+	float: left; 
+	margin-bottom: 5px;
+}
+.l_center .ipt .ipt1 img{
+	float: left;
+}
+.left2_c_top{
+	margin-left: 8px;
+	overflow: hidden;	
+}
+.left2_c_top .imgs{
+	overflow: hidden;
+	margin-right: 5px;
+	float: left;
+}
+.left2_c_top .imgs img{
+	float: left;
+}
+.gequ{
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.gequ li{
+	border-bottom: 1px dotted #000;
+	padding: 5px 0px;
+	background: url(../images/erji_151.jpg) 182px 9px no-repeat;
+}
+.l_center a{
+	float: right;
+	font-size: 14px;
+	color: #b62127;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+.l_center .ipt2{
+	margin-top: 19px;
+	margin-left: 20px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.l_center .ipt2 .imgs{
+	margin-right: 18px;
+	overflow: hidden;
+	float: left;
+}
+.l_center .ipt2 .imgs img{
+	float: left;
+}
+.l_center .ipt2 h3{
+	float: left;
+	color: #b01e21;
+	margin-right: 18px;
+}
+.l_center .calendar{
+	margin-left: 11px;
+	margin-bottom: 14px;
+}
+.c_1{
+	margin-bottom: 12px;
+}
+.c_center{
+	background: url(../images/blog-恢复的_103.jpg) 0 0 repeat-y;
+	width: 454px;
+	overflow: hidden;
+}
+.c_center_img{
+	margin-top: 7px;
+	margin-left: 7px;
+	height: 196px;
+	float: left;
+}
+.c_center_img .imgs{
+	margin-top: 7px;
+	background: url(../images/blog-恢复的-恢复的_09.jpg) 0 0 repeat-y;
+	height: 196px;
+	width: 142px;
+	margin-bottom: 7px;
+}
+.c_center_img .imgs img{
+	border: 3px solid #fff;
+	margin-left: 8px;
+	margin-top: 8px;
+	margin-bottom: 7px;
+}
+.c_center_img .imgs span{
+	margin-left: 25px;
+	margin-right: 21px;
+	margin-bottom: 15px;
+	font-size: 12px;
+}
+.c_center{
+	overflow: hidden;
+}
+.c_center .wenzhang1{
+	margin-left: 24px;
+	margin-top: 14px;
+	border-right: 2px solid #fcb66e;
+	padding-right: 14px;
+	float: left;
+}
+.c_center .wenzhang1 li{
+	margin-bottom: 10px;
+}
+.c_center .wenzhang1 .shenlv{
+	overflow: hidden;
+}
+.wenzhang1 .shenlv span{
+	float: left;
+}
+.wenzhang1 .shenlv a{
+	float: right;
+	color: #b52026;
+}
+.c_center .wenzhang2{
+	margin-left: 24px;
+	margin-top: 14px;
+	float: left;
+}
+.c_center .wenzhang2 li{
+	margin-bottom: 10px;
+}
+.c_center .wenzhang2 .shenlv{
+	overflow: hidden;
+}
+.wenzhang2 .shenlv span{
+	float: left;
+}
+.wenzhang2 .shenlv a{
+	float: right;
+	color: #b52026;
+}
+.c_center .bc-color{
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background: url(../images/bc-color.jpg) 0 0 repeat-x;
+	height: 22px;
+	overflow: hidden;
+}
+.c_center .bc-color .th1{
+	margin-left: 56px;
+	margin-top: 4px;
+	color: #b71d27;
+	float: left;
+}
+.c_center .bc-color .th2{
+	margin-left: 157px;
+	margin-top: 4px;
+	color: #b71d27;
+	float: left;
+}
+.c_center .bc-color .th3{
+	margin-left: 127px;
+	margin-top: 4px;
+	color: #b71d27;
+	float: left;
+}
+.c_center .con{
+	margin-left: 8px;
+	margin-top: 5px;
+}
+.c_center .con li{
+	border-bottom: 1px dotted #000;
+	padding-bottom: 5px;
+}
+.c_center .con li .span1{
+	margin-right: 53px;
+}
+.c_center .con li .span2{
+	margin-right: 90px;
+}
+.l_center .con2{
+	margin-left: 24px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+}
+.l_center .con2 li{
+	height: 20px;
+	line-height: 20px;
+	padding-bottom: 2px;
+	border-bottom: 1px dotted #000;
+}
+.l_center .con2 .s1{
+	background: url(../images/xiaoguanbiao.jpg) 0 0 no-repeat;
+	padding: 0px 22px;
+	height: 20px;
+	line-height: 20px;
+}
+.con3{
+	margin-left: 10px;
+	margin-top: 16px;
+	margin-right: 23px;
+}
+.con3 li .a1{
+	background: url(../images/xiaoguanbiao.jpg) 0 center no-repeat;
+	height: 20px;
+	line-height: 20px;
+	padding: 6px 20px;
+	color: #000;	 
+}
+.con3 li .a1 .s2{
+	color: #b51e25;
+	font-weight: bolder;
+}
+.d1{
+	margin-left: 2px;
+	margin-top: 2px;
+	height: 86px;
+	width: 223px;
+	background: url(../images/blog_1-2.jpg) 0 0 repeat-x;
+	overflow: hidden;
+}
+.d1 img{
+	margin-top: 10px;
+	margin-left: 19px;
+	border: 3px solid #fff;
+	float: left;
+}
+.d2{
+	margin-left: 2px;
+	margin-top: 2px;
+	height: 86px;
+	width: 223px;
+	border-bottom: 1px solid #ff9934;
+	overflow: hidden;
+}
+.d2 img{
+	margin-top: 10px;
+	margin-left: 19px;
+	border: 3px solid #fff;
+	float: left;
+}
+.d3{
+	margin-left: 14px;
+	margin-top: 18px;
+}
+.d3 .s3{
+	font-size: 18px;
+	font-weight: bold;
+	color: #b51e25;
+}
+.footer{
+	height: 87px;
+	line-height: 87px;
+	background: url(../images/blog_1-3.jpg) 0 0 repeat-x;
+}
+.footer a{
+	border-right: 2px solid #801117;
+	padding-right: 14px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #7f1218;
+	text-decoration: none;
+}
+.footer .m1{
+	margin-left: 132px;
+}
+
+
+

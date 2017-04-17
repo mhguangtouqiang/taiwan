@@ -1,0 +1,399 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.wrap{
+	min-width: 1000px;
+}
+.header{
+	margin: 0px auto;
+	border-bottom: 4px solid #176fbb;
+}
+.h_con{
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.logo{
+	margin-left: 7px;
+	margin-top: 14px;
+	margin-bottom: 9px;
+	float: left;
+}
+.h_right{
+	float: left;
+	width: 861px;
+	overflow: hidden;
+}
+.h_r_top{
+	margin-right: 21px;
+	margin-top: 20px;
+	float: right;
+}
+.xlx{
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	background: url(../images/xlx_06.png) 0 0 no-repeat;
+	padding: 0px 30px;
+	height: 26px;
+	line-height: 26px; 
+	float: left;
+	margin-left: 15px;
+}
+.h_r_top a{
+	font-size: 14px;
+	color: #000;
+	border-right: 2px solid #000;
+	padding-right: 19px;
+	margin-left: 19px;
+	float: left;
+	text-decoration: none;
+}
+.h_r_top .cel{
+	font-weight: bolder;
+	font-size: 18px;
+	background: url(../images/tel_06.png) 0 center no-repeat;
+	padding: 0px 19px;
+	border-right: 2px solid #000;
+	height: 19px;
+	line-height: 19px;
+	float: left;
+	color: #ffb944;
+}
+
+.h_r_top input{
+	width: 154px;
+	height: 28px;
+	float: left;
+}
+.h_r_top img{
+	float: left;
+	width: 27px;
+	height: 33px;
+}
+.h_r_bottom{
+	margin-top: 30px;
+	margin-bottom: 9px;
+	overflow: hidden;
+	float: left;
+}
+.h_r_bottom img{
+	margin-left: 56px;
+	float: left;
+}
+.h_r_bottom a{
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	padding: 0px 20px;
+	float: left;
+	text-decoration: none;
+}
+.middle{
+	margin: 0px auto;
+}
+.m_top{
+	margin: 0px auto;
+	width: 1000px;
+}
+.m_top a{
+	height: 53px;
+	line-height: 53px;
+	color: #000;
+	text-decoration: none;
+}
+.m_middle{
+	background: url(../images/bsl_02.jpg) 50% 50% no-repeat;
+	width: 100%;
+	height: 350px;
+}
+.m_bottom{
+	width: 1000px;
+	margin: 0px auto;
+}
+.m_bottom_top{
+	margin: 0px auto;
+	height: 98px;
+	line-height: 98px;
+	text-align: center;
+}
+.m_bottom_top span{
+	background: url(../images/liwu_25.png) 0 0 no-repeat;
+	font-size: 30px;
+	color: #cc0000;
+	padding-left: 55px;
+	display: inline-block;
+	height: 39px;
+	line-height: 39px;
+}
+.m_bottom_con{
+	width: 1032px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.img1,.img2,.img3,.img4,.img5,.img6{
+	float: left;
+}
+.m_bottom_con .img1{
+	background: url(../images/banshouli_03.jpg) 0 0 no-repeat;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	width: 313px;
+	height: 222px;
+	position: relative;
+}
+.img1 .bg{
+	background: #000;
+	height: 222px;
+	width: 313px;
+	opacity: 0.5;
+	position: absolute;
+}
+.img1 .wenzi{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.img1 .wenzi .tit{
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+}
+.aixin{
+	background: url(../images/banshouli_1_03.png) 0 0 no-repeat;
+	height: 20px;
+	line-height: 15px;
+	padding-left: 25px;
+	position: absolute;
+	top: 30px;
+	left: 82px;
+}
+.weixin{
+	background: url(../images/banshouli_2_05.png) 0 0 no-repeat;
+	height: 20px;
+	line-height: 15px;
+	padding-left: 25px;
+	position: absolute;
+	top: 30px;
+	left: 159px;
+}
+.wenzi .con{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	color: #fff;
+}
+.wenzi .con .d1{
+	position: absolute;
+	top: 63px;
+	left: 58px;
+	width: 260px;
+	height: 23px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.wenzi .con .d2{
+	position: absolute;
+	top: 103px;
+	left: 59px;
+	width: 260px;
+	height: 23px;
+	font-size: 14px;
+}
+.wenzi .con .d3{
+	position: absolute;
+	top: 120px;
+	left: 81px;
+	width: 260px;
+	height: 23px;
+	font-size: 14px;
+}
+.wenzi .bottom{
+	position: relative;
+}
+.wenzi .bottom img{
+	position: absolute;
+	top: 152px;
+	left: 19px;
+}
+.img2{
+	background: url(../images/banshouli_04_03.jpg) 0 0 no-repeat;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	width: 313px;
+	height: 222px;
+	position: relative; 	
+}
+.img2 .bg{
+	background: #000;
+	position: absolute;
+	top: 191px;
+	left: 0px;
+	opacity: 0.5;
+	width: 313px;
+	height: 32px;
+}
+.img2 .wenzi{
+	color: #fff;
+	position: absolute;
+	top: 191px;
+	left: 132px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.img3{
+	background: url(../images/banshouli05_05.jpg) 0 0 no-repeat;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	width: 313px;
+	height: 222px;
+	position: relative; 	
+}
+.img3 .bg{
+	background: #000;
+	position: absolute;
+	top: 191px;
+	left: 0px;
+	opacity: 0.5;
+	width: 313px;
+	height: 32px;
+}
+.img3 .wenzi{
+	color: #fff;
+	position: absolute;
+	top: 191px;
+	left: 58px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.img4{
+	background: url(../images/banshouli06_10.jpg) 0 0 no-repeat;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	width: 313px;
+	height: 222px;
+	position: relative; 	
+}
+.img4 .bg{
+	background: #000;
+	position: absolute;
+	top: 191px;
+	left: 0px;
+	opacity: 0.5;
+	width: 313px;
+	height: 32px;
+}
+.img4 .wenzi{
+	color: #fff;
+	position: absolute;
+	top: 191px;
+	left: 132px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.img5{
+	background: url(../images/banshouli07_12.jpg) 0 0 no-repeat;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	width: 313px;
+	height: 222px;
+	position: relative; 	
+}
+.img5 .bg{
+	background: #000;
+	position: absolute;
+	top: 191px;
+	left: 0px;
+	opacity: 0.5;
+	width: 313px;
+	height: 32px;
+}
+.img5 .wenzi{
+	color: #fff;
+	position: absolute;
+	top: 191px;
+	left: 58px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.img6{
+	background: url(../images/banshouli08_13.jpg) 0 0 no-repeat;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	width: 313px;
+	height: 222px;
+	position: relative; 	
+}
+.img6 .bg{
+	background: #000;
+	position: absolute;
+	top: 191px;
+	left: 0px;
+	opacity: 0.5;
+	width: 313px;
+	height: 32px;
+}
+.img6 .wenzi{
+	color: #fff;
+	position: absolute;
+	top: 191px;
+	left: 132px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.footer{
+	background: #023c4d;
+	top: 118px;
+	left: 88px;
+}
+.f_top{
+	height: 179px;
+	width: 1000px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.f_top_con{
+	margin-top: 22px;
+	margin-left: 103px;
+	float: left;
+}
+.f_top_con li{
+	font-size: 14.53px;
+	padding-bottom: 14px;
+	color: #fff;
+	vertical-align: middle;
+}
+.f_bottom{
+	border-top: 1px solid #fff;
+	height: 57px;
+	line-height: 57px;
+	text-align: center;
+}
+.f_bottom span{
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+}
+.f_bottom a{
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
